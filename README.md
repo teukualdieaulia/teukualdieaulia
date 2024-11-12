@@ -6,7 +6,7 @@
 - ⚡ Fun fact "Anak TI yang nggak hanya paham bahasa pemrograman, tapi juga bahasa kopi dan gelato. Kombinasi sempurna buat tetap semangat coding!"
 - 📫 How to reach me: teukualdiaulia@gmail.com
 
-<p align="left">Hello World!!</p>
+## Language and tools
 
 ###
 
