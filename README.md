@@ -9,25 +9,8 @@
 - 📫 How to reach me: teukualdiaulia@gmail.com
 - 😄 Pronouns He/Him
 - ⚡ Fun fact "Anak TI yang nggak hanya paham bahasa pemrograman, tapi juga bahasa kopi dan gelato. Kombinasi sempurna buat tetap semangat coding!"
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
