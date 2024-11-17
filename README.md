@@ -59,8 +59,5 @@
   <img src="https://profile-counter.glitch.me/teukualdieaulia/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/teukualdieaulia/teukualdieaulia/output/snake.svg" alt="Snake animation" />
 
 ###
